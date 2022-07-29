@@ -1,2 +1,1 @@
-# lostark-trainer
-각종 패턴 완숙을 위해!
+# Treinador de caixinha do GTA RP no Cidade Alta
